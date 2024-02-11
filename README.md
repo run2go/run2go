@@ -1,19 +1,19 @@
 <h1 align="center">Hi! I'm Run~ 🖤 <img src="https://komarev.com/ghpvc/?username=run2go&label=Profile%20views&color=0e75b6&style=flat" alt="run2go" /></h1>
-<h3 align="center">Your everyday IT guy from around the corner.</h3>
+<h3 align="left">Your everyday IT guy from around the corner.</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=run2go&locale=en&layout=compact&theme=transparent" alt="run2go" />
 
-```markdown
-- be nice
-- be aware
-- be thankful
-```
+- ```be nice```<br>
+- ```be aware```<br>
+- ```be thankful```<br>
 
-<h3 align="left">Connect with me: </a></h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.suso.ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="run2go" height="30" width="40" /></a>
 <a href="https://dev.to/run" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="run" height="30" width="40" /></a>
 </p>
+
 
 ```markdown
 > "I believe some people need something to believe in." ⚡
@@ -45,5 +45,3 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
-
-
