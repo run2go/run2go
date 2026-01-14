@@ -1,8 +1,6 @@
 <h1 align="center">Hi! I'm Run~ 🖤 <img src="https://komarev.com/ghpvc/?username=run2go&label=Profile%20views&color=0e75b6&style=flat" alt="run2go"/></h1>
 <h3 align="left">Your everyday IT guy from around the corner.</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=run2go&locale=en&layout=compact&theme=transparent" alt="run2go"/>
-
 - `be nice`<br>
 - `be aware`<br>
 - `be thankful`<br>
@@ -20,18 +18,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://nodejs.org/docs/latest/api/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://react.dev/reference/react" ><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/cpp" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/dotnet/csharp/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://www.php.net/manual/en/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://wiki.secondlife.com/wiki/LSL_Portal" ><img src="https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20-%20vector%20-%20text%20as%20curves%2010.svg" alt="lsl" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://git-scm.com/docs" ><img src="https://raw.githubusercontent.com/git/git-scm.com/refs/heads/gh-pages/static/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://docs.gitea.com/" ><img src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/assets/img/gitea.svg" alt="jenkins" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://linux.die.net/man/1/bash" ><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://docs.ansible.com/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://developer.hashicorp.com/terraform/docs" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://docs.docker.com/engine/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
  <a target="_blank" rel="noreferrer" href="https://docs.kernel.org/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
  <a target="_blank" rel="noreferrer" href="https://nginx.org/en/docs/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
- <a target="_blank" rel="noreferrer" href="https://docs.docker.com/engine/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://git-scm.com/docs" ><img src="https://raw.githubusercontent.com/git/git-scm.com/refs/heads/gh-pages/static/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://docs.gitea.com/" ><img src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/assets/img/gitea.svg" alt="gitea" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://react.dev/reference/react" ><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://go.dev/doc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/cpp" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://learn.microsoft.com/en-us/dotnet/csharp/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://wiki.secondlife.com/wiki/LSL_Portal" ><img src="https://raw.githubusercontent.com/tirithcz/secondlife-logo-svg/master/Second%20Life%20LOGO%20-%20vector%20-%20text%20as%20curves%2010.svg" alt="lsl" width="40" height="40"/></a>
+ <a target="_blank" rel="noreferrer" href="https://www.php.net/manual/en/" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p>
